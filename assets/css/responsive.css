@@ -1,0 +1,138 @@
+
+@media (max-width: 1199px) {
+	
+	.my-skills {
+	    padding: 30px 15px;
+	}
+
+}
+
+@media (max-width: 991px) {
+
+	/*Basic*/
+	.section-heading .title h2 {
+		font-size: 28px;
+	}
+	.mt-md-30 {
+		margin-top: 30px;
+	}
+	.mb-md-30 {
+		margin-bottom: 30px;
+	}
+
+	/*Navbar*/
+	.navbar-brand {
+		padding: 20px 0;
+		margin-left: 15px;
+	}
+	.navbar-toggler {
+		outline: 0 !important;
+	}
+	.navbar-btn i {
+		color: #fff;
+	}
+	.scrolled .navbar-btn i {
+		color: #000;
+	}
+	.nav-main {
+		background: #2c2c2c;
+	}
+	.scrolled .nav-main {
+		background: #fff;
+	}
+	.main-navbar .nav-main ul li a {
+		text-align: center;
+	}
+	/*.nav-main ul li {
+	    display: block;
+	    height: 50px;
+	    text-align: center;
+	    line-height: 50px;
+	}*/
+
+	/*Header*/
+	.header-contant h3 {
+		font-size: 30px;
+	}
+	.header-contant h2 {
+		font-size: 40px;
+	}
+	.header-contant h5 {
+		font-size: 15px;
+		letter-spacing: 1px;
+	}
+
+	/*About-me*/
+	.my-skills {
+		padding: 20px 15px;
+	}
+
+	/*Blog*/
+	#blog .section-heading {
+		padding-bottom: 30px;
+	}
+	.post {
+		margin-top: 30px;
+	}
+
+}
+
+@media (max-width: 767px) {
+
+	/*Basic*/
+	.mt-sm-30 {
+		margin-top: 30px;
+	}
+	.mb-sm-30 {
+		margin-bottom: 30px;
+	}
+
+	/*Header*/
+	.header-contant h3 {
+		font-size: 30px;
+	}
+	.header-contant h2 {
+		font-size: 40px;
+	}
+
+	/*About-me*/
+	.my-skills {
+		padding-top:30px;
+	}
+	.my-img img {
+		width: 100%;
+	}
+	.google-map-embed {
+		padding-bottom: 50%;
+	}
+	
+	
+
+}
+
+@media (max-width: 576px) {
+	
+
+	/*Testimonial*/
+	.testimonial-content p {
+		font-size: 14px;
+	}
+	.owl-carousel .owl-nav button.owl-next,
+	.owl-carousel .owl-nav button.owl-prev,
+	.owl-carousel button.owl-dot {
+		display: none;
+	}
+
+	.post-details .auther-name h6 a {
+		font-size: 16px;
+	}
+	.post-details .entry-meta a {
+		font-size: 14px;
+	}
+	.post-title h3 a {
+		font-size: 18px;
+	}
+}
+
+
+
